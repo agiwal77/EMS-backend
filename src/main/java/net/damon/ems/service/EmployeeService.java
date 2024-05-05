@@ -1,8 +1,8 @@
-package net.kammo.ems.service;
+package net.damon.ems.service;
 
 import java.util.List;
 
-import net.kammo.ems.dto.EmployeeDto;
+import net.damon.ems.dto.EmployeeDto;
 
 public interface EmployeeService {
 	EmployeeDto createEmployee(EmployeeDto eomEmployeeDto);

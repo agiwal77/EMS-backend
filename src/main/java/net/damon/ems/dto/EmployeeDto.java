@@ -1,4 +1,4 @@
-package net.kammo.ems.dto;
+package net.damon.ems.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

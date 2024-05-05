@@ -1,4 +1,4 @@
-package net.kammo.ems.controller;
+package net.damon.ems.controller;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.AllArgsConstructor;
-import net.kammo.ems.dto.EmployeeDto;
-import net.kammo.ems.service.EmployeeService;
+import net.damon.ems.dto.EmployeeDto;
+import net.damon.ems.service.EmployeeService;
 
 @CrossOrigin("*")
 @AllArgsConstructor

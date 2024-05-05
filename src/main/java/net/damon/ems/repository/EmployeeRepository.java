@@ -1,8 +1,8 @@
-package net.kammo.ems.repository;
+package net.damon.ems.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import net.kammo.ems.entity.Employee;
+import net.damon.ems.entity.Employee;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Long>{
 

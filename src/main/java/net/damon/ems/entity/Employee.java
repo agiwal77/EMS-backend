@@ -1,4 +1,4 @@
-package net.kammo.ems.entity;
+package net.damon.ems.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

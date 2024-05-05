@@ -1,4 +1,4 @@
-package net.kammo.ems;
+package net.damon.ems;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

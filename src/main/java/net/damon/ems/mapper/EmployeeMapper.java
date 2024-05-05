@@ -1,7 +1,7 @@
-package net.kammo.ems.mapper;
+package net.damon.ems.mapper;
 
-import net.kammo.ems.dto.EmployeeDto;
-import net.kammo.ems.entity.Employee;
+import net.damon.ems.dto.EmployeeDto;
+import net.damon.ems.entity.Employee;
 
 public class EmployeeMapper {
 
